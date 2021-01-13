@@ -1,0 +1,2 @@
+bus_i,oltc_min,oltc_max,oltc_steps,oltc_n_shift,symmetric
+0,-0.1,0.1,32,5,1
